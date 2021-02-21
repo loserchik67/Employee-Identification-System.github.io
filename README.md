@@ -18,3 +18,10 @@ This portfolio showcases what I have learned throughout my bachelors degree prog
   * Added an Employee Information database
   * Allows an admin to add or remove the user from the system
   * Updates the messaging system to clear out the messages for removed users
+
+## Code review
+
+The code review for the orignal code is to large to upload directly. Because of this, I have uploded it to youtube and provided the link here:
+
+[Code Review](https://youtu.be/uPsMT78aeZk)
+
