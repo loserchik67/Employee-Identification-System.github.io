@@ -25,3 +25,9 @@ The code review for the orignal code is to large to upload directly. Because of 
 
 [Code Review](https://youtu.be/uPsMT78aeZk)
 
+## Project File
+
+A link to the project file on github is included directly in this portfolio. This is the completed final project artificat for CS-499 which updates the artifcat "Zoo Authentication System" from IT-145.
+
+[Employee Authentication System Project File](https://github.com/loserchik67/loserchik67.github.io/tree/main/Employee%20Authentication%20System)
+
